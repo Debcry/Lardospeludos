@@ -17,7 +17,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 🛠️ Como rodar o projeto
 1. Clone o repositório:
-   `git clone https://github.com/SEU-USUARIO/lardospeludos.git`
+   `git clone https://github.com/Debcry/lardospeludos.git`
 2. Abra o arquivo `index.html` em seu navegador de preferência.
 
 ## 👤 Desenvolvedora
